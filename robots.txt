@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://strapdown-js.balloon.net.eu.org/sitemap.xml
