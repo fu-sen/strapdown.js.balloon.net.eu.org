@@ -14,6 +14,8 @@ so you should use this for temporary use.\
 I'm looking for a suitable CDN,\
 but you can fork or download and bundle it on the web instead.
 
+___
+
 ### 2/
 
 The original [Strapdown.js](https://github.com/arturadib/strapdown) v0.2 .\
@@ -29,6 +31,8 @@ The following has been added from the original:
 <script src="strapdown.js.balloon.net.eu.org/2/strapdown.js"></script>
 ```
 
+___
+
 ### 3/
 
 It adopts the [Bootstrap 3 theme](https://bootswatch.com/3/).
@@ -40,6 +44,8 @@ I found a bug and fixed it.
 <script src="strapdown.js.balloon.net.eu.org/2/strapdown.js"></script>
 ```
 
+___
+
 ### 4/
 
 It adopts the [Bootstrap 4 theme](https://bootswatch.com/4/).
@@ -50,6 +56,8 @@ This was the catalyst for the improvement.
 ```
 <script src="strapdown.js.balloon.net.eu.org/4/strapdown.js"></script>
 ```
+
+___
 
 ### 日本語 Japanese
 
