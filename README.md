@@ -41,7 +41,7 @@ It is the [development version](https://github.com/OCG-labs/strapdown/tree/dev) 
 I found a bug and fixed it.
 
 ```
-<script src="https://strapdown.js.balloon.net.eu.org/2/strapdown.js"></script>
+<script src="https://strapdown.js.balloon.net.eu.org/3/strapdown.js"></script>
 ```
 
 ___
