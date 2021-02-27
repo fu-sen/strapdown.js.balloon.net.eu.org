@@ -35,7 +35,7 @@ ___
 
 ### 3/
 
-It adopts the [Bootstrap 3 theme](https://bootswatch.com/3/).
+It can use the [Bootstrap 3 theme](https://bootswatch.com/3/).
 
 It is the [development version](https://github.com/OCG-labs/strapdown/tree/dev) that was included in the [Pull Request](https://github.com/arturadib/strapdown/pull/51).\
 I found a bug and fixed it.
@@ -48,7 +48,7 @@ ___
 
 ### 4/
 
-It adopts the [Bootstrap 4 theme](https://bootswatch.com/4/).
+It can use the [Bootstrap 4 theme](https://bootswatch.com/).
 
 I wanted to use the Yeti theme for this.\
 This was the catalyst for the improvement.
